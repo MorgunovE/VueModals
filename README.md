@@ -2,7 +2,7 @@
 
 ## Project preview
 ```
-https://morgunove.github.io/VueCardApp/dist/
+https://morgunove.github.io/VueModals/dist/
 ```
 ## Project setup
 ```
